@@ -1,0 +1,385 @@
+{
+  "settings": {
+    "name": "WGames",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 5,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "imageSize": "44",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/36018367956-26a341c85f-h-2000x1332.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=3LvDKy_fTFE",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<a href=\"http://tinyurl.com/ybot69hv\" target=\"_blank\">THE WORLD GAMES 2017 OFFICIAL STREAMING</a>&nbsp;",
+          "text": "TWG 2017 Wrocław, POL.<br>The World Games korfball matches is live via webcasting. Enjoy all the games, with statistics, play-by-play, top scorers, graphics and much more.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tinyurl.com/ybot69hv\" data-toolbar=\"-mbrBtnMove\">LIVE STREAM</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tinyurl.com/ybot69hv\" data-toolbar=\"-mbrBtnMove\">UNLI-ACCESS</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tinyurl.com/ybot69hv\" data-toolbar=\"-mbrBtnMove\">SCHEDULE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/impressions-of-the-opening-ceremony-of-the-2nd-csit-world-sports-games-in-tallinn-2000x701.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/header-col12-600x375.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title1": "ROLLER SPORTS",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://tinyurl.com/ybot69hv\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ROLLER SPORTS</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/header-col12-1150-1-600x395.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title2": "CANOE",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"http://tinyurl.com/ybot69hv\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CANOE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/header-col12-1150-2-600x385.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title3": "LACROSSE",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"http://tinyurl.com/ybot69hv\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LACROSSE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/header-col12-1150-3-600x388.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title4": "SUMO",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"http://tinyurl.com/ybot69hv\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SUMO</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/32505094353-cfac33d163-h-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title5": "ARCHERY",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"http://tinyurl.com/ybot69hv\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ARCHERY</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "color": "#ede4e4"
+            },
+            "H5": {
+              "color": "#2969b0"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#3e100f"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tinyurl.com/ybot69hv\" data-toolbar=\"-mbrBtnMove\">SHOW ALL SPORTS</a> "
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-4",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "size": "50",
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Works on All Devices",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Broadcasted events work well on all devices (Desktops, laptops, tablets, smatphones) and latest browser technology.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "3800+ TV Channels Worldwide",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Get the best collection of Active 3800+ Channels in one, simple, easy to use software for you to use on your devices.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "laptop",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Watch Live Stream in HD Quality",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Stream and Download Now. Enjoy all the pleasures of watching in HD from the comfort of your own living room.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "error",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://tinyurl.com/ybot69hv",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Disclaimer",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "This website is not responsible for any copyright infringements. If you have any legal issues or want to sent DMCA notice, please contact third party media owners or host sites.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        }
+      ]
+    }
+  }
+}
